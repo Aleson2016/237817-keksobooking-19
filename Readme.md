@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ale Son](https://up.htmlacademy.ru/javascript/19/user/237817).
-* Наставник: `Неизвестно`.
+* Наставник: [Григорий Бушманов](https://htmlacademy.ru/profile/id1106363).
 
 ---
 
